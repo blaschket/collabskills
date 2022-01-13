@@ -1,3 +1,3 @@
 # collabskills
 Collaborative software build skills
-v1.0.1
+v1.1.0
